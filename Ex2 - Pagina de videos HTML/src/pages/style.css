@@ -1,0 +1,39 @@
+* {
+    margin:0;
+    padding:0;
+}
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(255, 255, 255);
+    justify-content: center;
+}
+
+
+
+
+.nav {
+background-color: rgb(0, 0, 0);
+}
+.navlist a{
+    display:inline;
+    text-decoration:none;
+}
+
+.nav h1, .nav a {
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    display:flex;
+}
+
+
+.videos-section {
+    background-color:rgb(255, 255, 255);
+    width:100%
+}
+
+.videos-section h2 {
+text-align: center;
+}
+.videos {
+    margin-left:30%;
+}
